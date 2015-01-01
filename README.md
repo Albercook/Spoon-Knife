@@ -8,7 +8,6 @@ It is confusing to talk about Pull resuests in the middle of this paragraph.
 
 You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-opps what about partial comments
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
